@@ -14,3 +14,7 @@ deno run src/main.ts
 # Run MCP inspector UI for testing
 npx @modelcontextprotocol/inspector deno --allow-net --allow-read src/main.ts
 ```
+
+## Screenshot
+
+![MCP Inspector Screenshot](img/mcp-inspector-screenshot.png)
