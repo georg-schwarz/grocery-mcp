@@ -12,5 +12,5 @@ deno install
 deno run src/main.ts 
 
 # Run MCP inspector UI for testing
-npx @modelcontextprotocol/inspector deno grocery-mcp/src/main.ts
+npx @modelcontextprotocol/inspector deno --allow-net --allow-read src/main.ts
 ```
